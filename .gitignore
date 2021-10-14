@@ -1,0 +1,14 @@
+# python
+*.pyc
+__pycache__
+
+# dir
+/data
+/models
+/runs
+/predict_result
+
+# vscode
+.vscode
+
+
